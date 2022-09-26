@@ -30,6 +30,8 @@ https://www.distillerytrail.com/distillery-directory-map/ (has filters for women
 
 3. **What is your audience?** _Who is this project intended for? Be as specific as possible. This may help you know what complexity of language to use, how to handle navigability, and if you’ll need to anticipate any access barriers._
 
+POC Travelers, Women Travelers, Millennials, Gen X, and Babyboomers.
+
 #### Helpful links at this stage:
 - Poling, [Guide to Formulating a Research Question in History](https://history.fas.harvard.edu/files/history/files/research_question.pdf?m=1459176775)
 - [A Primer on the Historical Method](http://www.begbiecontestsociety.org/historicalmethod.htm)
@@ -46,8 +48,6 @@ _Each group will consider which tools and methodologies may help them convey a s
 
 3. **What are your current needs?** 
  - Data & source material: _What data will you use, and where will you get it? Are there (copyright/cost/accessibility) obstacles to obtaining it? Does it already exist, or will you need to create it? Will you need to change its form in any way?_
-
-POC Travelers, Women Travelers, Millennials, Gen X, and Babyboomers;
 
  - Tech & tools: _What tool(s) will you use? Will you need training or guidance to use it (them)? Can you use them on your computer, or will you need to acquire or use other equipment (for instance, a video recorder from the Charles Library)? Do you have a plan if you run into technical problems? Do you have a backup tool in mind, in case the one you wish to use doesn’t work out for any reason?_
 
