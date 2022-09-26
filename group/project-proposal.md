@@ -60,7 +60,7 @@ _Each group will consider which tools and methodologies may help them convey a s
 ### Part III: The outcome: **To be completed by 5pm October 10, 2022**
 
 _Each group will analyze their problem and evidence with the identified methods in order to convey an argument, and they will define parameters and a loose timeline for the project outcome._
-
+ 
 #### Helpful links at this stage:
  - [Lean Canvas Project Development Worksheet](https://dhlab.yale.edu/assets/docs/DH-LeanCanvas.pdf) from Yale's DHLab
  - [Creating a Work Plan](https://scholarblogs.emory.edu/pm4dh/creating-a-work-plan/) guidelines from Project Management for the Digital Humanities portal at Emory
