@@ -30,7 +30,7 @@ https://www.distillerytrail.com/distillery-directory-map/ (has filters for women
 
 3. **What is your audience?** _Who is this project intended for? Be as specific as possible. This may help you know what complexity of language to use, how to handle navigability, and if you’ll need to anticipate any access barriers._
 
-POC Travelers, Women Travelers, Millennials, Gen X, and Babyboomers.
+Liquor connoisseurs, POC Travelers, Women Travelers, Millennials, Gen X, and Babyboomers.
 
 #### Helpful links at this stage:
 - Poling, [Guide to Formulating a Research Question in History](https://history.fas.harvard.edu/files/history/files/research_question.pdf?m=1459176775)
