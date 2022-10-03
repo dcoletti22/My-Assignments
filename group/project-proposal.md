@@ -44,12 +44,23 @@ _Each group will consider which tools and methodologies may help them convey a s
 
 1. **What tools (specific) or methodologies/approaches (broad) will you use to develop or communicate your argument?**
 
+We will begin by compiling a list of BIPOC owned breweries, distilleries and wineries. We will rely on statistical information about racial breakdown for owners of breweries, distilleries, and wineries. Since we would like to map the locations, we will need to familiarize ourselves with the fundamentals of using mapping software. 
+
 2. **What are your current assets?** _What do you already have? Are there areas of expertise, previous training, special skills, knowledge, or talents that your team has access to? Do you have examples of similar projects that you can consult, emulate, or reverse-engineer? Have you already done some preliminary planning, sketches, prototyping, or experimentation that can inform your process?_
+
+Currently, we have a running list of Black owned breweries, distilleries, and wineries. 
+Source #1: Distilling Women
+Source #2: Distillery Trail
+Source #3: One Pint at a Time: Documenting the Black Experience in American Craft Beer
+Source #4: Black-owned wine and spirits makers you should know about
+Source # 5: List of Black owned distilleries
 
 3. **What are your current needs?** 
  - Data & source material: _What data will you use, and where will you get it? Are there (copyright/cost/accessibility) obstacles to obtaining it? Does it already exist, or will you need to create it? Will you need to change its form in any way?_
 
  - Tech & tools: _What tool(s) will you use? Will you need training or guidance to use it (them)? Can you use them on your computer, or will you need to acquire or use other equipment (for instance, a video recorder from the Charles Library)? Do you have a plan if you run into technical problems? Do you have a backup tool in mind, in case the one you wish to use doesn’t work out for any reason?_
+
+We need to expand this list to include any Indigineous, Asian, Latino or other POC owners. This list needs to be organized into a Google sheet by name of brewery/distillery/winery, location (city, state), BIPOC category. We also want to document their websites and other accompanying information like advertisements, branding, and market strategy.
 
 #### Helpful links at this stage
  - [Digital History and Argument Whitepaper](https://rrchnm.org/portfolio-item/digital-history-argument-white-paper/)
