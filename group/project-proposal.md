@@ -74,7 +74,7 @@ _Each group will analyze their problem and evidence with the identified methods 
 
 PROBLEM: Our goal is to create a network of Breweries, Wineries, and Distilleries around he continental United States owned by a variety of marginalized groups. We plan to chart them on a map, and establish a database of characteristics like establishment date, location, and market/brand strategy. 
 
-**EVIDENCE:** 
+**EVIDENCE:**  
 
 We have collected a list of sources that we will combine into an aggregate map. We will combine all of these source into one document and then remove any duplicates to ensure we have a broad collection of businesses. 
 
