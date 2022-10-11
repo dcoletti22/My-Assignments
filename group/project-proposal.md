@@ -71,6 +71,49 @@ We need to expand this list to include any Indigineous, Asian, Latino or other P
 ### Part III: The outcome: **To be completed by 5pm October 10, 2022**
 
 _Each group will analyze their problem and evidence with the identified methods in order to convey an argument, and they will define parameters and a loose timeline for the project outcome._
+
+PROBLEM: Our goal is to create a network of Breweries, Wineries, and Distilleries around he continental United States owned by a variety of marginalized groups. We plan to chart them on a map, and establish a database of characteristics like establishment date, location, and market/brand strategy. 
+
+**EVIDENCE:** 
+
+We have collected a list of sources that we will combine into an aggregate map. We will combine all of these source into one document and then remove any duplicates to ensure we have a broad collection of businesses. 
+
+Source #1: Distilling Women
+Source #2: Distillery Trail
+Source #3: One Pint at a Time: Documenting the Black Experience in American Craft Beer
+Source #4: Black-owned wine and spirits makers you should know about
+Source # 5: List of Black owned distilleries
+
+**METHODS:** 
+
+Our first step is to organize the breweries, distilleries, and wineries in an excel sheet with columns for city and state, ethnicities/race, gender, and whether it is a brewery, distillery , or winery. We will also have a column for an image (to be inserted into the map during the mapping step) as well as a column for a brief description, which will also be added into the map during the mapping phase. 
+
+We will have 3 separate tabs - 1 for breweries, 1 for distilleries, and 1 for wineries. 
+
+Once we have the information organized, we will split up the 3 tabs evenly and begin mapping the b/w/d using StoryMapJS.
+
+If possible, complimenting the mapping component of the project will be a couple of data visualizations. One may chart the number of breweries, distilleries, and wineries by geographic region and be presented in graph format, while another may reflect the growth of these establishments in the United States over a set number of years (sample question: how many BIPOC-owned businesses of this kind were founded between 1990-present?).
+
+
+**PARAMETERS:**
+
+Establish a time frame
+For the component of the project that involves comparison of visual advertising and marketing strategies, create a small number of broad categories in which to group similar data
+Limit map captions to 250-300 words maximum
+
+**TIMELINE:** 
+
+October 24, 2022 - preliminary list of businesses and a working bibliography of relevant sources compiled
+
+November 4, 2022 - check-in with Dr. Heider to raise any questions or concerns, as well as receive feedback 
+
+November 14, 2022 - first iteration of maps and visualizations complete. If undecided, make decisions about whether or not the project requires a website/the most effective platform for its exhibition
+November 28, 2022 - begin finalizing the project in preparation for presentation the following week
+
+December 2, 2022 - meet to discuss presentation strategies and make sure all are happy with the the project as it stands
+
+December 5, 2022 - present project in class (10-15 minutes with Q&A to follow) and submit reflection (Ryan is responsible for the latter action item)
+
  
 #### Helpful links at this stage:
  - [Lean Canvas Project Development Worksheet](https://dhlab.yale.edu/assets/docs/DH-LeanCanvas.pdf) from Yale's DHLab
