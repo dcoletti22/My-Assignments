@@ -36,7 +36,7 @@ Reflect on the role algorithhms play in our lives and in society. Examine the po
 
 7. Did you come away with an example/prototype/work-in-progress? Include a link or screenshot if possible.
 
-**I am not sure what you are refering to here but I think my answer would be no. While I did learn a lot specifically about "Big Data".
+**I am not sure what you are refering to here but I think my answer would be no. While I did learn a lot specifically about "Big Data".**
 
 9. What advice would you give to someone else who might be interested in learning more about this same topic?
 
